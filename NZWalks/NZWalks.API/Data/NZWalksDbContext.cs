@@ -8,10 +8,6 @@ namespace NZWalks.API.Data
         public NZWalksDbContext(DbContextOptions<NZWalksDbContext> options): base(options)
         {
 
-
-
-
-
         }
 
 
