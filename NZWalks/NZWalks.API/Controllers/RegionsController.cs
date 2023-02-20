@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿ using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Identity.Client;
 using NZWalks.API.Models.Domain;
